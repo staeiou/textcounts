@@ -17,3 +17,4 @@ install: "pip install pandas"
 script: 
   - python setup.py install
   - nosetests
+  
