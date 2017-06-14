@@ -12,7 +12,7 @@ python:
   - "nightly" # currently points to 3.6-dev
 
 # command to install dependencies
-install: "pip install pandas"
+install: "pip install pandas Cython"
 # command to run tests
 script: 
   - python setup.py install
