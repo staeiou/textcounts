@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='textcounts',
-      version='0.0.1',
+      version='0.0.2',
       description='Frequency and proportion counts for series of search strings',
       url='http://github.com/staeiou/textcounts',
       author='Stuart Geiger',
