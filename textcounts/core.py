@@ -1,3 +1,5 @@
+import pandas as pd
+
 def conditional_lower(input_string, tolower_bool):
     """
     Converts string to lowercase based on a conditional value. Helper function
