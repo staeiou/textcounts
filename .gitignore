@@ -1,0 +1,6 @@
+/*.egg-info
+/.spyderproject
+.spyderproject
+.idea/*
+/**/__pycache__
+/**/.ipynb_checkpoints
