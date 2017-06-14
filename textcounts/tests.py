@@ -1,3 +1,4 @@
+import pandas as pd
 def test_core():
     test_list = pd.Series(["this is a test", "THIS IS A TEST", "This is a Test"])
 
